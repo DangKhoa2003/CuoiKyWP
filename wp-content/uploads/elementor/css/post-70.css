@@ -1,0 +1,48 @@
+.elementor-bc-flex-widget .elementor-70 .elementor-element.elementor-element-f1516d1.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-70 .elementor-element.elementor-element-f1516d1.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-70 .elementor-element.elementor-element-f1516d1.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-70 .elementor-element.elementor-element-e37889a > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-70 .elementor-element.elementor-element-4fc870b:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-70 .elementor-element.elementor-element-4fc870b > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://themewar.com/wp/organia/main/wp-content/themes/organia/assets/images/bg/6.png");background-position:center center;background-repeat:no-repeat;}.elementor-70 .elementor-element.elementor-element-4fc870b > .elementor-element-populated, .elementor-70 .elementor-element.elementor-element-4fc870b > .elementor-element-populated > .elementor-background-overlay, .elementor-70 .elementor-element.elementor-element-4fc870b > .elementor-background-slideshow{border-radius:50% 50% 50% 50%;}.elementor-70 .elementor-element.elementor-element-4fc870b:hover > .elementor-element-populated, .elementor-70 .elementor-element.elementor-element-4fc870b:hover > .elementor-element-populated > .elementor-background-overlay{border-radius:50% 50% 50% 50%;}.elementor-70 .elementor-element.elementor-element-4fc870b:hover > .elementor-element-populated{box-shadow:1px 3px 0px 4px #62A403;}.elementor-70 .elementor-element.elementor-element-4fc870b > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-70 .elementor-element.elementor-element-4fc870b > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-70 .elementor-element.elementor-element-3e1ca52 img{width:100%;}.elementor-70 .elementor-element.elementor-element-5b96305 .elementor-heading-title{color:#FFFFFF;font-family:"Spartan", Sans-serif;font-size:9.5px;font-weight:900;text-transform:uppercase;line-height:27px;}.elementor-70 .elementor-element.elementor-element-5b96305 > .elementor-widget-container{margin:0px 10px 0px 10px;}.elementor-70 .elementor-element.elementor-element-5b96305{width:auto;max-width:auto;top:5px;}body:not(.rtl) .elementor-70 .elementor-element.elementor-element-5b96305{right:30px;}body.rtl .elementor-70 .elementor-element.elementor-element-5b96305{left:30px;}.elementor-70 .elementor-element.elementor-element-f8d9dde{text-align:center;}.elementor-70 .elementor-element.elementor-element-f8d9dde .elementor-heading-title{color:#000000;font-family:"Spartan", Sans-serif;font-size:22px;font-weight:800;line-height:1.5em;}.elementor-70 .elementor-element.elementor-element-f8d9dde > .elementor-widget-container{margin:20px 0px 0px 0px;}.elementor-70 .elementor-element.elementor-element-0449155{text-align:center;}@media(min-width:1025px){.elementor-70 .elementor-element.elementor-element-4fc870b:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-70 .elementor-element.elementor-element-4fc870b > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:scroll;}}/* Start custom CSS for heading, class: .elementor-element-5b96305 */.justin {
+    background-color: #62a403;
+    border-radius: 30px;
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-4fc870b */.elementor-70 .elementor-element.elementor-element-4fc870b {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-4eac9d6 */.piActionBtns {
+   margin: 0;
+    top: auto;
+    bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+   align-items: center;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    z-index: 3;
+    max-height: 55px;
+    font-size: 30px;
+}
+.piActionBtns .fas {
+    display: none;
+    color: #232424;
+    font-size: 24px;
+    padding: 8px;
+    border-radius: 50%;
+}
+.fa-search {
+    background-color: #eaf4bb
+}
+.fa-shopping-bag {
+    background-color: #f8dfc1;
+}
+.fa-arrows-alt {
+    background-color: #c0dded;
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-f1516d1 */.elementor-70 .elementor-element.elementor-element-f1516d1:hover .namePd, .pricePd{
+    display: none;
+    transition: all .3s linear;
+}
+.elementor-70 .elementor-element.elementor-element-f1516d1:hover .piActionBtns .fas{
+    display: block;
+    transition: all .3s linear;
+}/* End custom CSS */
