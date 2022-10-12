@@ -3,7 +3,7 @@
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<title>Log In &lsaquo; Organia &#8212; WordPress</title>
-	<meta name="robots" content="noindex, follow">
+	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://dangkhoa2003.github.io/CuoiKyWP/wp-includes/css/dashicons.min.css?ver=6.0.2" type="text/css" media="all">
 <link rel="stylesheet" id="buttons-css" href="https://dangkhoa2003.github.io/CuoiKyWP/wp-includes/css/buttons.min.css?ver=6.0.2" type="text/css" media="all">
@@ -97,7 +97,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://dangkhoa2003.github.io/CuoiKyWP/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"6a34dac318"};
+var userProfileL10n = {"user_id":"0","nonce":"6f493d61c3"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://dangkhoa2003.github.io/CuoiKyWP/wp-admin/js/user-profile.min.js?ver=6.0.2" id="user-profile-js"></script>
@@ -109,6 +109,6 @@ var userProfileL10n = {"user_id":"0","nonce":"6a34dac318"};
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
 
-Served from: localhost @ 2022-10-11 03:34:22 by W3 Total Cache
+Served from: localhost @ 2022-10-12 16:24:28 by W3 Total Cache
 -->
 </html>
