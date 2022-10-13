@@ -97,7 +97,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://dangkhoa2003.github.io/CuoiKyWP/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"6f493d61c3"};
+var userProfileL10n = {"user_id":"0","nonce":"42ea79c2b1"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="https://dangkhoa2003.github.io/CuoiKyWP/wp-admin/js/user-profile.min.js?ver=6.0.2" id="user-profile-js"></script>
@@ -109,6 +109,6 @@ var userProfileL10n = {"user_id":"0","nonce":"6f493d61c3"};
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
 
-Served from: localhost @ 2022-10-12 16:24:28 by W3 Total Cache
+Served from: localhost @ 2022-10-13 07:50:49 by W3 Total Cache
 -->
 </html>
