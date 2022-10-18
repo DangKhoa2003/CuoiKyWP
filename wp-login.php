@@ -5,11 +5,11 @@
 	<title>Log In &lsaquo; Organia &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://dangkhoa2003.github.io/CuoiKyWP/wp-includes/css/dashicons.min.css?ver=6.0.2" type="text/css" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://dangkhoa2003.github.io/CuoiKyWP/wp-includes/css/buttons.min.css?ver=6.0.2" type="text/css" media="all">
-<link rel="stylesheet" id="forms-css" href="https://dangkhoa2003.github.io/CuoiKyWP/wp-admin/css/forms.min.css?ver=6.0.2" type="text/css" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://dangkhoa2003.github.io/CuoiKyWP/wp-admin/css/l10n.min.css?ver=6.0.2" type="text/css" media="all">
-<link rel="stylesheet" id="login-css" href="https://dangkhoa2003.github.io/CuoiKyWP/wp-admin/css/login.min.css?ver=6.0.2" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://dangkhoa2003.github.io/CuoiKyWP/wp-includes/css/dashicons.min.css?ver=6.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://dangkhoa2003.github.io/CuoiKyWP/wp-includes/css/buttons.min.css?ver=6.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="forms-css" href="https://dangkhoa2003.github.io/CuoiKyWP/wp-admin/css/forms.min.css?ver=6.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://dangkhoa2003.github.io/CuoiKyWP/wp-admin/css/l10n.min.css?ver=6.0.3" type="text/css" media="all">
+<link rel="stylesheet" id="login-css" href="https://dangkhoa2003.github.io/CuoiKyWP/wp-admin/css/login.min.css?ver=6.0.3" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
@@ -87,20 +87,20 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 var pwsL10n = {"unknown":"Password strength unknown","short":"Very weak","bad":"Weak","good":"Medium","strong":"Strong","mismatch":"Mismatch"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://dangkhoa2003.github.io/CuoiKyWP/wp-admin/js/password-strength-meter.min.js?ver=6.0.2" id="password-strength-meter-js"></script>
+<script type="text/javascript" src="https://dangkhoa2003.github.io/CuoiKyWP/wp-admin/js/password-strength-meter.min.js?ver=6.0.3" id="password-strength-meter-js"></script>
 <script type="text/javascript" src="https://dangkhoa2003.github.io/CuoiKyWP/wp-includes/js/underscore.min.js?ver=1.13.3" id="underscore-js"></script>
 <script type="text/javascript" id="wp-util-js-extra">
 /* <![CDATA[ */
 var _wpUtilSettings = {"ajax":{"url":"\/wordpress\/wp-admin\/admin-ajax.php"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://dangkhoa2003.github.io/CuoiKyWP/wp-includes/js/wp-util.min.js?ver=6.0.2" id="wp-util-js"></script>
+<script type="text/javascript" src="https://dangkhoa2003.github.io/CuoiKyWP/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"42ea79c2b1"};
+var userProfileL10n = {"user_id":"0","nonce":"c7ff1e71db"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://dangkhoa2003.github.io/CuoiKyWP/wp-admin/js/user-profile.min.js?ver=6.0.2" id="user-profile-js"></script>
+<script type="text/javascript" src="https://dangkhoa2003.github.io/CuoiKyWP/wp-admin/js/user-profile.min.js?ver=6.0.3" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	
@@ -109,6 +109,6 @@ var userProfileL10n = {"user_id":"0","nonce":"42ea79c2b1"};
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
 
-Served from: localhost @ 2022-10-13 07:50:49 by W3 Total Cache
+Served from: localhost @ 2022-10-18 03:41:40 by W3 Total Cache
 -->
 </html>
