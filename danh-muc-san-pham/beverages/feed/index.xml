@@ -15,7 +15,7 @@
 	<atom:link href="https://dangkhoa2003.github.io/CuoiKyWP/danh-muc-san-pham/beverages/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dangkhoa2003.github.io/CuoiKyWP</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Sun, 23 Oct 2022 03:48:33 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 23 Oct 2022 11:44:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,10 +24,3 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
-
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
-
-
-Served from: localhost @ 2022-10-23 04:30:16 by W3 Total Cache
--->

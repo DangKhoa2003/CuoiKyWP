@@ -103,12 +103,4 @@ var userProfileL10n = {"user_id":"0","nonce":"819e2a3fc4"};
 <script type="text/javascript" src="https://dangkhoa2003.github.io/CuoiKyWP/wp-admin/js/user-profile.min.js?ver=6.0.3" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
-	
-	
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
-
-
-Served from: localhost @ 2022-10-23 04:28:25 by W3 Total Cache
--->
-</html>
+	</html>
