@@ -10,8 +10,8 @@
 <link rel="stylesheet" id="forms-css" href="https://dangkhoa2003.github.io/CuoiKyWP/wp-admin/css/forms.min.css?ver=6.0.3" type="text/css" media="all">
 <link rel="stylesheet" id="l10n-css" href="https://dangkhoa2003.github.io/CuoiKyWP/wp-admin/css/l10n.min.css?ver=6.0.3" type="text/css" media="all">
 <link rel="stylesheet" id="login-css" href="https://dangkhoa2003.github.io/CuoiKyWP/wp-admin/css/login.min.css?ver=6.0.3" type="text/css" media="all">
-	<meta name="referrer" content="strict-origin-when-cross-origin">
-		<meta name="viewport" content="width=device-width">
+<meta name="referrer" content="strict-origin-when-cross-origin">
+	<meta name="viewport" content="width=device-width">
 		</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-en-us">
 	<script type="text/javascript">document.body.className = document.body.className.replace('no-js','js');</script>
@@ -109,6 +109,6 @@ var userProfileL10n = {"user_id":"0","nonce":"819e2a3fc4"};
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
 
-Served from: localhost @ 2022-10-23 02:47:34 by W3 Total Cache
+Served from: localhost @ 2022-10-23 04:28:25 by W3 Total Cache
 -->
 </html>
